@@ -1,6 +1,6 @@
 /**
  * Viet30926Links - Cloudflare Workers URL Shortener
- * Custom Domain: links.viet30926.qzz.io
+ * Custom Domain: link.mviet.bond
  * Optimized for Edge Performance & Enhanced Security
  * Links Storage: Permanent (No Expiration)
  */
