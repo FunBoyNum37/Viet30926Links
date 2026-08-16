@@ -5,7 +5,7 @@
  * Links Storage: Permanent (No Expiration)
  */
 
-const CUSTOM_DOMAIN = 'links.viet30926.qzz.io';
+const CUSTOM_DOMAIN = 'link.mviet.bond';
 const RATE_LIMIT_REQUESTS = 50;
 const RATE_LIMIT_WINDOW = 3600; // 1 hour
 
